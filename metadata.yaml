@@ -1,0 +1,39 @@
+_repo: Sylva--Or-A-Discourse-of-Forest-Trees.-Vol.-1--of-2-_20778
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Nisbet, John
+    birthdate: 1853
+    deathdate: 1914
+    gutenberg_agent_id: '9522'
+    url: http://www.gutenberg.org/2009/agents/9522
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Evelyn, John
+    birthdate: 1620
+    deathdate: 1706
+    gutenberg_agent_id: '6100'
+    url: http://www.gutenberg.org/2009/agents/6100
+    wikipedia: http://en.wikipedia.org/wiki/John_Evelyn
+description: ''
+gutenberg_bookshelf:
+- Natural History
+- Forestry
+gutenberg_issued: '2007-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20778'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Forests and forestry -- Early works to 1800'
+- !lcc 'SD'
+- !lcsh 'Gardening -- Early works to 1800'
+- !lcsh 'Trees -- Early works to 1800'
+title: Sylva; Or, A Discourse of Forest Trees. Vol. 1 (of 2)
+url: http://www.gutenberg.org/ebooks/20778
